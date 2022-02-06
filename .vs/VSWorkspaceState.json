@@ -1,0 +1,22 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\manu",
+    "\\src\\main\\java\\com\\manu\\Clientes",
+    "\\src\\main\\java\\com\\manu\\Clientes\\domain",
+    "\\src\\main\\java\\com\\manu\\Clientes\\repository",
+    "\\src\\main\\java\\com\\manu\\Clientes\\service",
+    "\\src\\main\\resources",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\manu",
+    "\\src\\test\\java\\com\\manu\\Clientes",
+    "\\src\\test\\java\\com\\sanvalero"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\manu\\Clientes\\service\\ClienteServiceImpl.java",
+  "PreviewInSolutionExplorer": false
+}
